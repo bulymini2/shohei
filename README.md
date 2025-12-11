@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚾️ Shohei Ohtani Tracker (Ohtani-Verse)
 
 歡迎來到 **Shohei Ohtani Tracker**！這是一個專門用來追蹤大谷翔平（Shohei Ohtani）最新動態的網站。
@@ -74,3 +75,6 @@
 *   **Icons**: Lucide React
 
 祝你使用愉快！ Go Ohtani! 🦄
+=======
+# shohei
+>>>>>>> d2deee9a9e5fddfe49b542c39f9a1e8af1ccc063
